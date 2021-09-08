@@ -1,0 +1,16 @@
+C:\Users\fredd\source\repos\TransferBank\TransferBank\bin\Debug\net5.0\TransferBank.exe
+C:\Users\fredd\source\repos\TransferBank\TransferBank\bin\Debug\net5.0\TransferBank.deps.json
+C:\Users\fredd\source\repos\TransferBank\TransferBank\bin\Debug\net5.0\TransferBank.runtimeconfig.json
+C:\Users\fredd\source\repos\TransferBank\TransferBank\bin\Debug\net5.0\TransferBank.runtimeconfig.dev.json
+C:\Users\fredd\source\repos\TransferBank\TransferBank\bin\Debug\net5.0\TransferBank.dll
+C:\Users\fredd\source\repos\TransferBank\TransferBank\bin\Debug\net5.0\ref\TransferBank.dll
+C:\Users\fredd\source\repos\TransferBank\TransferBank\bin\Debug\net5.0\TransferBank.pdb
+C:\Users\fredd\source\repos\TransferBank\TransferBank\obj\Debug\net5.0\TransferBank.csproj.AssemblyReference.cache
+C:\Users\fredd\source\repos\TransferBank\TransferBank\obj\Debug\net5.0\TransferBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fredd\source\repos\TransferBank\TransferBank\obj\Debug\net5.0\TransferBank.AssemblyInfoInputs.cache
+C:\Users\fredd\source\repos\TransferBank\TransferBank\obj\Debug\net5.0\TransferBank.AssemblyInfo.cs
+C:\Users\fredd\source\repos\TransferBank\TransferBank\obj\Debug\net5.0\TransferBank.csproj.CoreCompileInputs.cache
+C:\Users\fredd\source\repos\TransferBank\TransferBank\obj\Debug\net5.0\TransferBank.dll
+C:\Users\fredd\source\repos\TransferBank\TransferBank\obj\Debug\net5.0\ref\TransferBank.dll
+C:\Users\fredd\source\repos\TransferBank\TransferBank\obj\Debug\net5.0\TransferBank.pdb
+C:\Users\fredd\source\repos\TransferBank\TransferBank\obj\Debug\net5.0\TransferBank.genruntimeconfig.cache
